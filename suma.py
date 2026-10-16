@@ -1,5 +1,5 @@
-def sum(a, b):
+def suma_2_num(a, b):
     return a + b
 
-suma = sum(5, 10)
+suma = suma_2_num(5, 10)
 print("The sum of 5 and 10 is:", suma)
