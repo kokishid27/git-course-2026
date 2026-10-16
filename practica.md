@@ -18,9 +18,9 @@
 
 ## A. Presentación
 
-- **Mi nombre o apodo:** kokshid27
-- **Una actividad que disfruto:** el git
-- **Algo que me gustaría aprender con Git:** trabajar en equipo
+- **Mi nombre o apodo:** Chava
+- **Una actividad que disfruto:** la semana academica y carrear a al dueño del repositorio
+- **Algo que me gustaría aprender con Git:** hacer pull request
 
 ## B. Lo que aprendí
 
