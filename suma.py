@@ -1,5 +1,5 @@
-def sum(a, b):
+def chava(a, b):
     return a + b
 
-suma = sum(5, 10)
+suma = chava(5, 10)
 print("The sum of 5 and 10 is:", suma)
